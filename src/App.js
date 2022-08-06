@@ -41,11 +41,6 @@ export default function App() {
                         Select 2 modes to compare. The 1st mode will display in blue, and the 2nd mode will display in
                         red. Only notes that differ in the 2nd mode will be drawn on the canvas.
                     </p>
-                    <h3>Rules:</h3>
-                    <ul>
-                        <li>Dont use the same finger twice.</li>
-                        <li>Dont stretch when you dont have to.</li>
-                    </ul>
                     <Form />
                 </div>
                 <div className="canvas-container">

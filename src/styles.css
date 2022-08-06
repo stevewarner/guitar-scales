@@ -12,8 +12,24 @@
     padding: 40px 0;
 }
 
-form label {
-    font-weight: strong;
+form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 0 20px;
+}
+
+form > span {
+    margin: 0 0 20px 0;
+}
+
+form span:first-of-type {
+    margin-top: 20px;
+}
+
+form > span > * {
+    margin-right: 8px;
 }
 
 form > * {
