@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/guitar-scales/static/css/main.8d88ee5b.css",
-    "main.js": "/guitar-scales/static/js/main.4cbe94b2.js",
+    "main.css": "/guitar-scales/static/css/main.1d6e5b42.css",
+    "main.js": "/guitar-scales/static/js/main.d439257b.js",
     "static/js/787.f4bf73b2.chunk.js": "/guitar-scales/static/js/787.f4bf73b2.chunk.js",
     "index.html": "/guitar-scales/index.html",
-    "main.8d88ee5b.css.map": "/guitar-scales/static/css/main.8d88ee5b.css.map",
-    "main.4cbe94b2.js.map": "/guitar-scales/static/js/main.4cbe94b2.js.map",
+    "main.1d6e5b42.css.map": "/guitar-scales/static/css/main.1d6e5b42.css.map",
+    "main.d439257b.js.map": "/guitar-scales/static/js/main.d439257b.js.map",
     "787.f4bf73b2.chunk.js.map": "/guitar-scales/static/js/787.f4bf73b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d88ee5b.css",
-    "static/js/main.4cbe94b2.js"
+    "static/css/main.1d6e5b42.css",
+    "static/js/main.d439257b.js"
   ]
 }
